@@ -1,0 +1,4 @@
+﻿  KalkulatorVer1.cpp
+C:\Users\1CT\Desktop\notatnik\KalkulatorVer1\KalkulatorVer1\KalkulatorVer1.cpp(17,30): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\1CT\Desktop\notatnik\KalkulatorVer1\KalkulatorVer1\KalkulatorVer1.cpp(18,30): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  KalkulatorVer1.vcxproj -> C:\Users\1CT\Desktop\notatnik\KalkulatorVer1\x64\Debug\KalkulatorVer1.exe

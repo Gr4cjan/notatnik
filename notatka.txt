@@ -1,0 +1,11 @@
+-----------W domu utwórz prezentacje na temat kompilowania programu---------------
+-debugowanie jak wygląda ten proces
+-co robi interpreter
+----------------------------------------------------------------------------------
+
+Compilator-jeden z najważniejszych programów.Program zamienia kod napisany przez programiste na kod zrozumiały dla komputera do postaci wynikowej.
+Mingw - darmowy kompilator który zamienia na .exe
+The bugging - odrobaczanie:wyszukiwanie blędów tzw. debugowanie
+                                                      
+
+bitbucket.org/pzsnr1/12092023-cplus/fork
